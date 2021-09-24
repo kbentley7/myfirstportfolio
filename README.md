@@ -5,3 +5,6 @@ check
 git config --global user.email "kenmo8466@gmail.com"
   git config --global user.name "Kenneth E. Bentley, Sr."
   I added a photo to my portfolio.
+  Updated portfolio photo
+  Updated portfolio using bootstrap
+  I added a linkedin link
